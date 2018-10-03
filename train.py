@@ -17,7 +17,7 @@ batch_size = 16
 n_channels = 1#3
 img_size = (100, 100)#(196, 196)
 data = 'data/att_faces'#'data/faces96'
-n_convs=[2, 3, 3],
+n_convs=[2, 3, 3]
 n_filters=[16, 32, 64]
 
 
